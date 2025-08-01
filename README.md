@@ -39,34 +39,25 @@ A stunning, interactive 3D portfolio website built with Three.js, GSAP, and Next
 ### Installation
 
 1. **Clone the repository**
-   \`\`\`bash
+  
    git clone https://github.com/yourusername/3d-portfolio.git
    cd 3d-portfolio
-   \`\`\`
 
 2. **Install dependencies**
-   \`\`\`bash
+
    npm install
-   # or
-   yarn install
-   \`\`\`
 
 3. **Run development server**
-   \`\`\`bash
+ 
    npm run dev
-   # or
-   yarn dev
-   \`\`\`
 
 4. **Open your browser**
    Navigate to `http://localhost:3000`
 
 ### Build for Production
 
-\`\`\`bash
 npm run build
 npm start
-\`\`\`
 
 ## 🛠️ Technology Stack
 
@@ -110,15 +101,6 @@ npm start
 - **Code Splitting**: Next.js automatic code splitting
 - **Bundle Optimization**: Tree shaking and minification
 
-## 🔧 Configuration
-
-### Environment Variables
-Create a `.env.local` file for any API keys or configuration:
-
-\`\`\`env
-NEXT_PUBLIC_SITE_URL=https://yourportfolio.com
-NEXT_PUBLIC_CONTACT_EMAIL=your@email.com
-\`\`\`
 
 ### Deployment
 
@@ -157,7 +139,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 If you have any questions or need help with setup:
 
-- 📧 Email: your@email.com
+- 📧 Email: bouonwajdy@gmail.com
 - 🐛 Issues: [GitHub Issues](https://github.com/yourusername/3d-portfolio/issues)
 - 💬 Discussions: [GitHub Discussions](https://github.com/yourusername/3d-portfolio/discussions)
 
